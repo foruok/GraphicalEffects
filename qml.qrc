@@ -17,5 +17,10 @@
         <file>DropShadowExample.qml</file>
         <file>DropShadowEx.qml</file>
         <file>InnerShadowEx.qml</file>
+        <file>BlurExample.qml</file>
+        <file>FastBlurEx.qml</file>
+        <file>GaussianBlurEx.qml</file>
+        <file>RecursiveBlurEx.qml</file>
+        <file>MaskedBlurEx.qml</file>
     </qresource>
 </RCC>
