@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BlendExample.qml</file>
+        <file>bug.jpg</file>
+        <file>butterfly.png</file>
+        <file>ColorExample.qml</file>
+        <file>BrightnessContrastEx.qml</file>
+        <file>ColorOverlayEx.qml</file>
+        <file>ColorizeEx.qml</file>
+        <file>DesaturateEx.qml</file>
+        <file>GammaAdjustEx.qml</file>
+        <file>HueSaturationEx.qml</file>
+        <file>LevelAdjustEx.qml</file>
+        <file>ColorPicker.qml</file>
+        <file>GammaVector.qml</file>
+        <file>DropShadowExample.qml</file>
+        <file>DropShadowEx.qml</file>
+        <file>InnerShadowEx.qml</file>
+    </qresource>
+</RCC>
